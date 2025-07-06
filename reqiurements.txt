@@ -1,0 +1,11 @@
+langchain_community
+langchain-google-genai 
+google-generativeai
+langchain_core
+python-dotenv
+bs4
+pypdf
+chromadb
+faiss-cpu
+wikipedia
+arxiv
